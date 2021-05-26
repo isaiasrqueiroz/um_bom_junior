@@ -1,4 +1,6 @@
-# Plano de estudos: desenvolvimento web 🚀👩‍💻
+<h1 align="center">
+ Plano de estudos: desenvolvimento web 🚀👩‍💻
+</h1>
 
 E ai júnior, suave? Quer se tornar desenvolvedor sênior em 4 meses? Que legal, mas não vai rolar.
 
